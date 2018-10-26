@@ -11,6 +11,7 @@ public class App
 
     public static void main( String[] args )
     {
+        //test
         solution(3,"1A 1K 2E 3D 3E 1F");
     }
 
